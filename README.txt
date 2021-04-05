@@ -1,0 +1,1 @@
+Creating application which will search for inputed sequence of bytes amoung asked types of files in requested path (folder) .
